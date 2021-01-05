@@ -1,3 +1,10 @@
+reprepro (5.3.0-2) unstable; urgency=medium
+
+  [ Frédéric Pierret ]
+  * 
+
+ -- Frédéric Pierret (fepitre) <frederic.pierret@qubes-os.org>  Tue, 05 Jan 2021 18:28:55 +0100
+
 reprepro (5.3.0-1) unstable; urgency=medium
 
   * Initial commit
