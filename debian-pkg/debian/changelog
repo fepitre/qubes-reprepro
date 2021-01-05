@@ -1,0 +1,8 @@
+reprepro (5.3.0-1) unstable; urgency=medium
+
+  * Initial commit
+  - Add upstream debian packaging from: https://salsa.debian.org/brlink/reprepro/
+  - Add support for multiple-versions from source: https://salsa.debian.org/bdrung/reprepro/-/tree/multiple-versions
+  - Add Qubes builder integration
+
+ -- Frédéric Pierret <frederic.pierret@qubes-os.org>  Tue, 05 Jan 2021 18:20:00 +0100
